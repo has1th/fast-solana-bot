@@ -12,10 +12,4 @@ I have a complete bot that I built for myself that runs some checks on new pools
 
 I also built volume bots, Remove liquidity, Init Swap bot.
 
-# Contact
-If you need help with any of these add me on
-
-Discord: degencoderr
-
-Telegram: https://t.me/degencoderr
 
